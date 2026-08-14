@@ -1,129 +1,219 @@
-````markdown
-# Hi, I'm Abraham Grace 👋
 
-### Software Engineering Student | Java Backend Developer | AI Enthusiast
+# Abraham Grace F
 
-I'm a Software Engineering student at **VIT Vellore** focused on building backend systems and AI-powered applications.
+**Software Engineering Student | Java Backend Developer | AI Systems**
 
-I primarily work with **Java, Spring Boot, PostgreSQL, and REST APIs**, and I'm currently exploring how AI can be integrated into practical software systems.
+Software Engineering student at **Vellore Institute of Technology**, focused on backend development and AI-powered software systems.
 
----
+My primary stack is **Java, Spring Boot, PostgreSQL, REST APIs, and AI integrations**. I enjoy designing backend systems, experimenting with LLM applications, and turning ideas into working software.
 
-## 🚀 What I'm Working On
-
-- 🧠 **OmniAssist** — An AI-powered assistant built with Java, Spring Boot, Spring AI, OpenAI, and PostgreSQL.
-- 📱 **WhatsApp AI Notification Router** — A multimodal AI system that analyzes WhatsApp messages, images, and voice notes to intelligently decide whether to notify, summarize, or mute.
-- ☕ Building and improving my **Java + Spring Boot** backend development skills.
-- 🌐 Exploring **cloud technologies, distributed systems, and open source**.
+[LinkedIn](https://www.linkedin.com/in/abrahamgracef/) · [Email](mailto:abrahamgracef@gmail.com) · [GitHub](https://github.com/abrahamgracef)
 
 ---
 
-## 🛠️ Tech Stack
+## About
+
+- Currently pursuing **M.Tech Integrated Software Engineering** at VIT Vellore
+- Focused on **Java backend development and Spring Boot**
+- Building applications that integrate **LLMs with traditional backend systems**
+- Interested in **software architecture, distributed systems, cloud computing, and open source**
+- Currently developing **OmniAssist**, an AI-powered assistant
+
+---
+
+## Technical Skills
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### AI & APIs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+### Backend & Frameworks
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
 
----
+### AI
 
-## 📌 Featured Projects
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-### 🤖 WhatsApp AI Notification Router
-**Java · Google Gemini · Multimodal AI**
+### Database & Tools
 
-An AI-powered notification routing system designed to intelligently process WhatsApp messages.
-
-- Processes text, images, and voice notes
-- Uses conversation and historical context
-- Considers user behavior and group metadata
-- Routes notifications into **Notify / Digest / Mute**
-- Uses confidence scoring and historical evidence
-
-[View Project →](https://github.com/abrahamgracef/whatsapp-ai-notification-router)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 
 ---
 
-### 🧠 OmniAssist
-**Java 21 · Spring Boot · Spring AI · OpenAI · PostgreSQL**
+## Featured Projects
 
-An AI-powered assistant currently under development.
+### WhatsApp AI Notification Router
 
-- Spring AI and OpenAI integration
-- PostgreSQL persistence
-- JPA/Hibernate
-- Flyway database migrations
-- OAuth2 authentication
-- RESTful backend architecture
+**Java 21 · Google Gemini · Multimodal AI · Maven**
 
-[View Project →](https://github.com/abrahamgracef/OmniAssist)
+An AI-powered notification routing system that determines whether incoming WhatsApp messages should **notify the user immediately, be included in a digest, or be muted**.
 
----
+The system combines multimodal AI reasoning with personalized contextual information rather than evaluating messages in isolation.
 
-## 📚 Currently Learning
+**Key engineering areas:**
+
+- Multimodal processing of text, images, and voice notes
+- Personalized user and conversation context
+- Historical message and interaction retrieval
+- Group, business, and sender relationship metadata
+- Notification history and notification-fatigue awareness
+- Structured confidence scores and explanations
+- Evidence-based routing decisions
+- Rate-limit retry handling
+- Automated CSV prediction generation
+
+**Architecture**
 
 ```text
-Java & Advanced Java
-        ↓
-Spring Boot & Backend Architecture
-        ↓
-AI Integration & LLM Applications
-        ↓
-Distributed Systems
-        ↓
-Cloud & DevOps
+Incoming Message
+       |
+       v
+Dataset Loader
+       |
+       v
+Context Builder
+       |
+       +---- User Behaviour
+       +---- Group Metadata
+       +---- Message History
+       +---- Notification History
+       +---- Interaction Evidence
+       |
+       v
+Prompt Builder
+       |
+       v
+Gemini Multimodal Model
+       |
+       v
+Routing Decision
+   /       |       \
+Notify   Digest    Mute
 ````
 
----
-
-## 🎯 Interests
-
-* Backend Engineering
-* Artificial Intelligence
-* Distributed Systems
-* Open Source
-* Cloud Computing
-* Software Architecture
-* Astronomy & Astrophotography
+[Repository](https://github.com/abrahamgracef/whatsapp-ai-notification-router)
 
 ---
 
-## 📊 GitHub Stats
+### OmniAssist
 
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamgracef\&show_icons=true\&theme=tokyonight\&hide_border=true)
+**Java 21 · Spring Boot · Spring AI · OpenAI · PostgreSQL**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamgracef\&layout=compact\&theme=tokyonight\&hide_border=true)
+An AI-powered assistant currently under development, focused on combining LLM capabilities with a structured backend application.
+
+**Current engineering focus:**
+
+* Spring Boot backend architecture
+* Spring AI integration
+* OpenAI integration
+* PostgreSQL persistence
+* JPA / Hibernate
+* Flyway database migrations
+* RESTful services
+* OAuth2 integration
+* Application monitoring with Spring Boot Actuator
+
+The project is being developed incrementally with an emphasis on maintainable backend architecture and extensibility.
+
+[Repository](https://github.com/abrahamgracef/OmniAssist)
 
 ---
 
-## 🤝 Connect With Me
+## Engineering Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham%20Grace-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abrahamgracef/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-abrahamgracef-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/abrahamgracef)
+```text
+Java
+  |
+  +-- Object-Oriented Programming
+  |
+  +-- Spring Boot
+        |
+        +-- REST APIs
+        +-- JPA / Hibernate
+        +-- Spring Security
+        +-- Spring AI
+              |
+              +-- OpenAI
+              +-- Gemini
+        |
+        +-- PostgreSQL
+        +-- Flyway
+        |
+        +-- Backend Architecture
+              |
+              +-- Distributed Systems
+              +-- Cloud
+              +-- DevOps
+```
 
 ---
 
-> **Building things, breaking things, and learning how they work.**
+## Currently Learning
+
+* Advanced Java
+* Spring Boot and backend architecture
+* Spring AI and LLM application development
+* Distributed systems
+* Cloud computing
+* DevOps and deployment
+* Open-source development
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abrahamgracef&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamgracef&layout=compact&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abrahamgracef&hide_border=true" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrahamgracef&hide_border=true&area=true" />
+</p>
+
+---
+
+## Interests
+
+Backend Engineering · Artificial Intelligence · Distributed Systems ·
+Cloud Computing · Software Architecture · Open Source ·
+Astronomy · Astrophotography
+
+---
+
+## Contact
+
+**LinkedIn:** [linkedin.com/in/abrahamgracef](https://www.linkedin.com/in/abrahamgracef/)
+
+**Email:** [abrahamgracef@gmail.com](mailto:abrahamgracef@gmail.com)
+
+**GitHub:** [github.com/abrahamgracef](https://github.com/abrahamgracef)
+
+---
+
+<sub>Building software, learning systems, and improving one project at a time.</sub>
 
 ```
 ```
