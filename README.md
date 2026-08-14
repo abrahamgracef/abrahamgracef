@@ -1,4 +1,3 @@
-
 # Abraham Grace F
 
 **Software Engineering Student | Java Backend Developer | AI Systems**
@@ -7,7 +6,7 @@ Software Engineering student at **Vellore Institute of Technology**, focused on 
 
 My primary stack is **Java, Spring Boot, PostgreSQL, REST APIs, and AI integrations**. I enjoy designing backend systems, experimenting with LLM applications, and turning ideas into working software.
 
-[LinkedIn](https://www.linkedin.com/in/abrahamgracef/) · [Email](mailto:abrahamgracef@gmail.com) · [GitHub](https://github.com/abrahamgracef)
+[Email](mailto:abrahamgracef@gmail.com) · [GitHub](https://github.com/abrahamgracef)
 
 ---
 
@@ -58,7 +57,7 @@ My primary stack is **Java, Spring Boot, PostgreSQL, REST APIs, and AI integrati
 
 ### WhatsApp AI Notification Router
 
-**Java 21 · Google Gemini · Multimodal AI · Maven**
+**Java 21 · Google Gemini · Multimodal AI**
 
 An AI-powered notification routing system that determines whether incoming WhatsApp messages should **notify the user immediately, be included in a digest, or be muted**.
 
@@ -103,117 +102,3 @@ Gemini Multimodal Model
 Routing Decision
    /       |       \
 Notify   Digest    Mute
-````
-
-[Repository](https://github.com/abrahamgracef/whatsapp-ai-notification-router)
-
----
-
-### OmniAssist
-
-**Java 21 · Spring Boot · Spring AI · OpenAI · PostgreSQL**
-
-An AI-powered assistant currently under development, focused on combining LLM capabilities with a structured backend application.
-
-**Current engineering focus:**
-
-* Spring Boot backend architecture
-* Spring AI integration
-* OpenAI integration
-* PostgreSQL persistence
-* JPA / Hibernate
-* Flyway database migrations
-* RESTful services
-* OAuth2 integration
-* Application monitoring with Spring Boot Actuator
-
-The project is being developed incrementally with an emphasis on maintainable backend architecture and extensibility.
-
-[Repository](https://github.com/abrahamgracef/OmniAssist)
-
----
-
-## Engineering Focus
-
-```text
-Java
-  |
-  +-- Object-Oriented Programming
-  |
-  +-- Spring Boot
-        |
-        +-- REST APIs
-        +-- JPA / Hibernate
-        +-- Spring Security
-        +-- Spring AI
-              |
-              +-- OpenAI
-              +-- Gemini
-        |
-        +-- PostgreSQL
-        +-- Flyway
-        |
-        +-- Backend Architecture
-              |
-              +-- Distributed Systems
-              +-- Cloud
-              +-- DevOps
-```
-
----
-
-## Currently Learning
-
-* Advanced Java
-* Spring Boot and backend architecture
-* Spring AI and LLM application development
-* Distributed systems
-* Cloud computing
-* DevOps and deployment
-* Open-source development
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrahamgracef&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamgracef&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abrahamgracef&hide_border=true" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrahamgracef&hide_border=true&area=true" />
-</p>
-
----
-
-## Interests
-
-Backend Engineering · Artificial Intelligence · Distributed Systems ·
-Cloud Computing · Software Architecture · Open Source ·
-Astronomy · Astrophotography
-
----
-
-## Contact
-
-**LinkedIn:** [linkedin.com/in/abrahamgracef](https://www.linkedin.com/in/abrahamgracef/)
-
-**Email:** [abrahamgracef@gmail.com](mailto:abrahamgracef@gmail.com)
-
-**GitHub:** [github.com/abrahamgracef](https://github.com/abrahamgracef)
-
----
-
-<sub>Building software, learning systems, and improving one project at a time.</sub>
-
-```
-```
