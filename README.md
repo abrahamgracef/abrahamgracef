@@ -13,12 +13,10 @@
 
 I am a Software Engineering student at **Vellore Institute of Technology (VIT)** specializing in robust backend architectures, AI-integrated software, and decentralized systems. 
 
-I don't just write code—I build automated systems. Lately, I've been heavily involved in **Open Source Bounty Hunting** and deploying **Zero-Capital Micro-SaaS** tools. 
 
 * 🎓 Pursuing **M.Tech Integrated Software Engineering**
 * 🧠 Currently building **OmniAssist** & experimenting with LLM infrastructure
 * 🌐 Expanding into **Web3, Smart Contract Auditing, and Automated DeFi Tooling**
-* ⚡ Fun fact: I utilize autonomous AI agent swarms to execute code refactors and open-source bounties
 
 ---
 
@@ -84,10 +82,6 @@ An intelligent notification routing engine that evaluates WhatsApp messages to d
 - **Evidence-Based Logic:** Evaluates group metadata, sender history, and notification fatigue scores.
 - **Multimodal Pipeline:** Dataset Loader ➔ Context Builder ➔ Gemini Prompt Engine ➔ Dynamic Route Execution.
 
-### 🛡️ AegisWeb3 Sentinel *(Micro-SaaS)*
-> **Next.js · Solana RPC · DefiLlama APIs**
-
-A multi-chain zero-capital security scanner that audits Ethereum and Solana wallets for hidden smart-contract drainer approvals and calculates live Value-at-Risk (VAR).
 
 ---
 
