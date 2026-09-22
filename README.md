@@ -63,13 +63,4 @@ An intelligent notification routing engine that evaluates WhatsApp messages to d
 - **Evidence-Based Logic:** Evaluates group metadata, sender history, and notification fatigue scores.
 - **Multimodal Pipeline:** Dataset Loader ➔ Context Builder ➔ Gemini Prompt Engine ➔ Dynamic Route Execution.
 
----
 
-<div align="center">
-  <h2>🐍 My Contributions</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abrahamgracef/abrahamgracef/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abrahamgracef/abrahamgracef/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abrahamgracef/abrahamgracef/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
